@@ -1,0 +1,2 @@
+C:\Users\Rahul\source\repos\rubot\x64\Debug\rubot.exe
+C:\Users\Rahul\source\repos\rubot\x64\Debug\rubot.pdb
